@@ -162,6 +162,5 @@ cython_debug/
 .idea/
 .langgraph_api/
 
-docs
 output
 data
